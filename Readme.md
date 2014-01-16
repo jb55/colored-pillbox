@@ -11,17 +11,19 @@
 
 ## API
 
-  var Pillbox = require('pillbox')
-  var colored = require('colored-pillbox')
+```javascript
+var Pillbox = require('pillbox')
+var colored = require('colored-pillbox')
 
-  var colors = {
-    red: "red",
-    blue: "#0000FF"
-  }
+var colors = {
+  red: "red",
+  blue: "#0000FF"
+}
 
-  var el = document.getElementById('tags') ;
-  var pillbox = Pillbox(el, { lowercase: true })
-  colored(pillbox, colors)
+var el = document.getElementById('tags') ;
+var pillbox = Pillbox(el, { lowercase: true })
+colored(pillbox, colors)
+```
 
 ## License
 
