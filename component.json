@@ -1,0 +1,15 @@
+{
+  "name": "colored-pillbox",
+  "repo": "jb55/colored-pillpox",
+  "description": "Color pillbox elements based on text contents",
+  "version": "0.0.1",
+  "keywords": ["pillbox", "color"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": []
+}
