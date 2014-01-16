@@ -9,7 +9,7 @@
 
     $ component install jb55/colored-pillbox
 
-## API
+## Example
 
 ```javascript
 var Pillbox = require('pillbox')
