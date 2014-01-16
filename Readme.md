@@ -1,7 +1,6 @@
+# colored-pillbox
 
-# color-element
-
-  Color elements based on their contents
+  Color pillbox elements based on their contents
 
 ## Installation
 
